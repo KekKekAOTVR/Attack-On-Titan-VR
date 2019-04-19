@@ -1,0 +1,277 @@
+fileFormatVersion: 2
+guid: 347fbfa6f10e4b04b86f6e46f29e2931
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Circle_005
+    100002: Circle_008
+    100004: Cube
+    100006: Cube_001
+    100008: Cube_002
+    100010: Cube_003
+    100012: Cube_004
+    100014: Cube_005
+    100016: Cube_006
+    100018: Cube_007
+    100020: Cube_009
+    100022: Cube_010
+    100024: Cube_011
+    100026: Cube_012
+    100028: Cube_013
+    100030: Cube_014
+    100032: //RootNode
+    100034: House2_000
+    100036: House2_002
+    100038: House2_003
+    100040: House2_004
+    100042: House2_005
+    100044: House2_001
+    100046: House2_006
+    100048: House2_007
+    100050: House2_008
+    100052: House2_011
+    100054: House2_014
+    400000: Circle_005
+    400002: Circle_008
+    400004: Cube
+    400006: Cube_001
+    400008: Cube_002
+    400010: Cube_003
+    400012: Cube_004
+    400014: Cube_005
+    400016: Cube_006
+    400018: Cube_007
+    400020: Cube_009
+    400022: Cube_010
+    400024: Cube_011
+    400026: Cube_012
+    400028: Cube_013
+    400030: Cube_014
+    400032: //RootNode
+    400034: House2_000
+    400036: House2_002
+    400038: House2_003
+    400040: House2_004
+    400042: House2_005
+    400044: House2_001
+    400046: House2_006
+    400048: House2_007
+    400050: House2_008
+    400052: House2_011
+    400054: House2_014
+    2100000: House2Stair
+    2100002: House2Pole
+    2100004: House2Sign
+    2100006: HouseBase
+    2100008: House2Base
+    2300000: Circle_005
+    2300002: Circle_008
+    2300004: Cube
+    2300006: Cube_001
+    2300008: Cube_002
+    2300010: Cube_003
+    2300012: Cube_004
+    2300014: Cube_005
+    2300016: Cube_006
+    2300018: Cube_007
+    2300020: Cube_009
+    2300022: Cube_010
+    2300024: Cube_011
+    2300026: Cube_012
+    2300028: Cube_013
+    2300030: Cube_014
+    2300032: House2_000
+    2300034: House2_002
+    2300036: House2_003
+    2300038: House2_004
+    2300040: House2_005
+    2300042: House2_001
+    2300044: House2_006
+    2300046: House2_007
+    2300048: House2_008
+    2300050: House2_011
+    2300052: House2_014
+    3300000: Circle_005
+    3300002: Circle_008
+    3300004: Cube
+    3300006: Cube_001
+    3300008: Cube_002
+    3300010: Cube_003
+    3300012: Cube_004
+    3300014: Cube_005
+    3300016: Cube_006
+    3300018: Cube_007
+    3300020: Cube_009
+    3300022: Cube_010
+    3300024: Cube_011
+    3300026: Cube_012
+    3300028: Cube_013
+    3300030: Cube_014
+    3300032: House2_000
+    3300034: House2_002
+    3300036: House2_003
+    3300038: House2_004
+    3300040: House2_005
+    3300042: House2_001
+    3300044: House2_006
+    3300046: House2_007
+    3300048: House2_008
+    3300050: House2_011
+    3300052: House2_014
+    4300000: Cube_007
+    4300002: Cube_014
+    4300004: Cube_013
+    4300006: Cube_012
+    4300008: House2_002
+    4300010: House2_000
+    4300012: Cube_010
+    4300014: House2_005
+    4300016: House2_004
+    4300018: House2_003
+    4300020: Cube
+    4300022: Cube_001
+    4300024: Cube_002
+    4300026: Cube_003
+    4300028: Cube_004
+    4300030: Cube_005
+    4300032: Cube_006
+    4300034: Cube_009
+    4300036: Circle_005
+    4300038: Circle_008
+    4300040: Cube_011
+    4300042: House2_006
+    4300044: House2_001
+    4300046: House2_008
+    4300048: House2_011
+    4300050: House2_014
+    4300052: House2_007
+    7400000: Default Take
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BlackBars
+    second: {fileID: 2100000, guid: b8aaeacf541ecc64da1249660006da80, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: House2Base
+    second: {fileID: 2100000, guid: 706dfd0dbd2da854c81270c3de3cb211, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: House2Pole
+    second: {fileID: 2100000, guid: cb90902d1d7e08c40beded3b3bf10c6d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: House2Sign
+    second: {fileID: 2100000, guid: 47d59961a123d4141bc0f9963b8be5d9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: House2Stair
+    second: {fileID: 2100000, guid: 787c09397cf46a8428ae90d9af3a7bbe, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_001
+    second: {fileID: 2100000, guid: c1fef2d176590254eb561c0400518085, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: RoofFront
+    second: {fileID: 2100000, guid: 1400047cf99d7054daa8cbfa9dfa45ac, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: RoofSides
+    second: {fileID: 2100000, guid: ca24997c21726d440a5dbf40f017c5e8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: RoofTop
+    second: {fileID: 2100000, guid: 3b880207a6893894f848083a90060730, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: unnamed
+    second: {fileID: 2100000, guid: 4a381d2199a91ba4a8d1b9b7bbcc31ab, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
